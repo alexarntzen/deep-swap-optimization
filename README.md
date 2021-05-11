@@ -9,3 +9,4 @@ Group members:
 
 * Songyan Hou
 * Christopher Goenczoel
+* Arik Wenger

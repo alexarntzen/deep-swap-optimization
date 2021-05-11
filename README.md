@@ -8,3 +8,6 @@ Group members:
 *  *Write your name*
 
 * Songyan Hou
+* Christopher Goenczoel
+* Arik Wenger
+* Alexander Johan Arntzen
